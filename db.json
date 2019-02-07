@@ -210,7 +210,7 @@
     "DATE_2019.02.01-05,PERIOD": "19-02M",
     "2018.09_SUM": 0
   }],
-"SRH_CPT_T1_11_04":{
+"SRH_CPT_T1_10_04":{
 	"list": [
 		  {"CD":"N","DIS_SEQ":0,"ID":"N","CD_NM":"1/N","SEQ":0},
 		  {"CD":"SAME","DIS_SEQ":0,"ID":"SAME","CD_NM":"Same Value","SEQ":1},
@@ -224,5 +224,9 @@
 		  {"CD":"ACT_SALES_AMT","DIS_SEQ":2,"ID":"71A23051B557E34CE053536BE70ABAC9","CD_NM":"실제 판매액","SEQ":20},
 		  {"CD":"ANNUAL_AMT","DIS_SEQ":2,"ID":"71A23051B559E34CE053536BE70ABAC9","CD_NM":"ANNUAL_AMT","SEQ":30}
 		]
-	}
+	},
+	"SRH_CPT_T1_11_04":{
+	list: [
+          {"CD":"LOCAL","CD_NM":"Local Currency"},{"CD":"AED","CD_NM":"UAE Dirham"}
+		}
 }
