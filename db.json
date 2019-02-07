@@ -226,7 +226,7 @@
 		]
 	},
 	"SRH_CPT_T1_11_04":{
-	list: [
+	"list": [
           {"CD":"LOCAL","CD_NM":"Local Currency"},{"CD":"AED","CD_NM":"UAE Dirham"}
 		}
 }
